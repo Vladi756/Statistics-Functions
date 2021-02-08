@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-
 float mean(int x, float array[]);
 float median(int x, float array[]);
 float standardDev(int x, float array[]);
