@@ -13,8 +13,8 @@ int main()
 
     for(i = 0; i < n; i++)
     {
-        printf("Enter Element %d: ", i + 1);
-        scanf("\%fn", &numbers[i]);
+        printf("Enter Element %d:\n ", i + 1);
+        scanf("%f", &numbers[i]);
     }
 
     printf("Mean = %.2f\n",mean(n, numbers));
