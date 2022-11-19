@@ -7,4 +7,4 @@ The main function serves simply to show how the stats.h library may be incorpora
 
 ## Motivation 
 
-This project was written as part of my Fundamentals of Software Engineering Module (CSI_4_FCS) however I still enjoyed doing it. I am interested in finance and statistics and have been for a long time, after finishing this project it inspired me to create a project to display and process stock market data in Python. 
+This project was written as part of my Fundamentals of Software Engineering Module (CSI_4_FCS) an I really enjoyed doing it. I am interested in finance and statistics and have been for a long time, after finishing this project it inspired me to create a project to display and process stock market data in Python. 
